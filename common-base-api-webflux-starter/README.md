@@ -7,7 +7,7 @@
 ```xml
 
 <dependency>
-  <groupId>ru.sbrf.ufs.common.cssru.sbrf.ufs.common.css</groupId>
+  <groupId>ru.cpm.common.cssru.sbrf.ufs.common.css</groupId>
   <artifactId>common-base-api-webflux-starter</artifactId>
   <version>${common.ssp}</version>
 </dependency>

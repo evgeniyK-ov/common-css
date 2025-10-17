@@ -1,4 +1,4 @@
-package ru.sbrf.ufs.common.css.base.api.webflux.configurations;
+package ru.cpm.common.css.base.api.webflux.configurations;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

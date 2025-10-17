@@ -1,4 +1,4 @@
-package ru.sbrf.ufs.common.css.base.api.webflux.configurations;
+package ru.cpm.common.css.base.api.webflux.configurations;
 
 
 import io.swagger.v3.oas.models.Components;
