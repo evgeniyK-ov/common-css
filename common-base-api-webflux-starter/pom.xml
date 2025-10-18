@@ -45,16 +45,5 @@
       <groupId>org.projectlombok</groupId>
       <artifactId>lombok</artifactId>
     </dependency>
-    <dependency>
-      <groupId>ru.sbrf.ufs.platform</groupId>
-      <artifactId>plat-jwt-authentication-starter-webflux</artifactId>
-      <version>${ufs-jwt-authentication.version}</version>
-    </dependency>
-
-    <dependency>
-      <groupId>ru.sbrf.ufs.platform</groupId>
-      <artifactId>plat-stumb-jwt-authentication-starter-webflux</artifactId>
-      <version>${ufs-jwt-authentication.version}</version>
-    </dependency>
   </dependencies>
 </project>
